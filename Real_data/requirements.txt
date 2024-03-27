@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+torch==1.2.0
+sklearn
+jupyter
+notebook
